@@ -6,7 +6,7 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTM3U
 #EXTINF:60,KRT TV
 #EXTVLCOPT:network-caching=1000
-http://185.234.111.229:8000/play/a06f
+https://youtu.be/v5srSbD2WBk
 
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
