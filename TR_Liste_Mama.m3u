@@ -68,6 +68,7 @@ http://185.234.111.229:8000/play/a00f
 #EXTINF:60,Kemal Sunal 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/21070
+
 #EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 2
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2984
 #EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 3
