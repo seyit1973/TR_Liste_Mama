@@ -64,6 +64,35 @@ http://185.234.111.229:8000/play/a00i
 #EXTVLCOPT:network-caching=1000
 http://185.234.111.229:8000/play/a00f
 
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/21070
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2984
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47680
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 4" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71214
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 5" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101020
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 6" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 6
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101019
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 7" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 7
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101018
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 1
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47665
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 2
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47662
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 3
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71206
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 4" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 4
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101032
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 5" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 5
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101011
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 6" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 6
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101010
+#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 7" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 7
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101029
+
 #EXTM3U
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="News",24 TV
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
