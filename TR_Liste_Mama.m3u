@@ -69,18 +69,36 @@ http://185.234.111.229:8000/play/a00f
 #EXTVLCOPT:network-caching=1000
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/21070
 
-#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 2
+#EXTM3U
+#EXTINF:60,Kemal Sunal 2
+#EXTVLCOPT:network-caching=1000
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2984
-#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 3" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 3
+
+#EXTM3U
+#EXTINF:60,Kemal Sunal 3
+#EXTVLCOPT:network-caching=1000
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47680
-#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 4" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 4
+
+#EXTM3U
+#EXTINF:60,Kemal Sunal 4
+#EXTVLCOPT:network-caching=1000https://github.com/seyit1973/TR_Liste_Mama/blob/main/TR_Liste_Mama.m3u
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/71214
-#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 5" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 5
+
+#EXTM3U
+#EXTINF:60,Kemal Sunal 5
+#EXTVLCOPT:network-caching=1000
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101020
-#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 6" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 6
+
+#EXTM3U
+#EXTINF:60,Kemal Sunal 6
+#EXTVLCOPT:network-caching=1000
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101019
-#EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Kemal Sunal 7" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Kemal Sunal 7
+
+#EXTM3U
+#EXTINF:60,Kemal Sunal 7
+#EXTVLCOPT:network-caching=1000
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/101018
+
 #EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 1" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 1
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/47665
 #EXTINF:-1 tvg-id="" tvg-name="(TR) 7/24 Yesilcam 2" group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Yesilcam 2
