@@ -22,7 +22,7 @@ https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
 #EXTM3U
 #EXTINF:60,Kanal D
 #EXTVLCOPT:network-caching=1000
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8
 
 #EXTM3U
 #EXTINF:60,ATV
