@@ -8,6 +8,8 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTVLCOPT:network-caching=1000
 https://www.youtube.com/watch?v=sKTq8zmzBvo
 
+#EXTM3U
+#EXTINF:60,Now TV
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
@@ -16,8 +18,10 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
+#EXTM3U
+#EXTINF:60,Teve2
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Undefined",Teve2 (1080p)
-https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
 #EXTM3U
 #EXTINF:60,Kanal D
