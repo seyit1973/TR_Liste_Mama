@@ -22,7 +22,7 @@ https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
 #EXTM3U
 #EXTINF:60,Kanal D
 #EXTVLCOPT:network-caching=1000
-https://demiroren.daioncdn.net/kanald/kanald.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 
 #EXTM3U
 #EXTINF:60,ATV
@@ -32,12 +32,12 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTM3U
 #EXTINF:60,Show Tv
 #EXTVLCOPT:network-caching=1000
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
 #EXTM3U
 #EXTINF:60,Star Tv
 #EXTVLCOPT:network-caching=1000
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 	
 #EXTM3U
 #EXTINF:60,360 TV
@@ -52,17 +52,17 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTM3U
 #EXTINF:60,TRT1
 #EXTVLCOPT:network-caching=1000
-http://185.234.111.229:8000/play/a00c
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTM3U
 #EXTINF:60,TRT MUZIK
 #EXTVLCOPT:network-caching=1000
-http://185.234.111.229:8000/play/a00i
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 #EXTM3U
 #EXTINF:60,TRT Belgesel
 #EXTVLCOPT:network-caching=1000
-http://185.234.111.229:8000/play/a00f
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 
 #EXTM3U
 #EXTINF:60,Kemal Sunal 1
