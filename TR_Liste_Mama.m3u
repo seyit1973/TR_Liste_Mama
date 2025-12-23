@@ -86,10 +86,14 @@ https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV 
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT (backup)
+#EXTM3U
+#EXTINF:60,KRT TV 2
+#EXTVLCOPT:network-caching=1000
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 
-#EXTINF:0,KRT TV
+#EXTM3U
+#EXTINF:60,KRT TV 3
+#EXTVLCOPT:network-caching=1000
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
