@@ -89,6 +89,9 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png",KRT (backup)
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 
+#EXTINF:0,KRT TV
+http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
