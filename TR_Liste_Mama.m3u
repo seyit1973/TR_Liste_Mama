@@ -96,7 +96,7 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTVLCOPT:network-caching=1000
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV Test 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",group-title="1. Test",HALK TV Test 1
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1, HALK TV Test 2
