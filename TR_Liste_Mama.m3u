@@ -96,6 +96,12 @@ https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTVLCOPT:network-caching=1000
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV Test 1
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1, HALK TV Test 2
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
