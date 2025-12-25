@@ -1,99 +1,63 @@
 #EXTM3U
-#EXTINF:60,Halk TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Undefined",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTM3U
-#EXTINF:60,KRT TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,KRT TV
 https://www.youtube.com/watch?v=sKTq8zmzBvo
 
-#EXTM3U
-#EXTINF:60,Now TV
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
-#EXTM3U
-#EXTINF:60,TELE 1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
-#EXTM3U
-#EXTINF:60,Teve2
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.imgur.com/rsoSLih.png" group-title="Undefined",Teve2 (1080p)
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
-#EXTM3U
-#EXTINF:60,Kanal D
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 
-#EXTM3U
-#EXTINF:60,ATV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,ATV
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 
-#EXTM3U
-#EXTINF:60,Show Tv
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Show Tv
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
-#EXTM3U
-#EXTINF:60,Star Tv
+#EXTINF:-1,Star Tv
 #EXTVLCOPT:network-caching=1000
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
-	
-#EXTM3U
-#EXTINF:60,360 TV
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTM3U
-#EXTINF:60,Kanal 7
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTM3U
-#EXTINF:60,TRT1
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTM3U
-#EXTINF:60,TRT MUZIK
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTM3U
-#EXTINF:60,TRT Belgesel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,TRT Belgesel
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 
-#EXTM3U
-#EXTINF:60,TRT Haber
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",TRT HABER 
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTM3U
-#EXTINF:60,SÖZCÜ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 
-#EXTM3U
-#EXTINF:60,CNN TÜRK
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CNN TÜRK
 https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV 
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
-#EXTM3U
-#EXTINF:60,KRT TV 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,KRT TV 2
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 
-#EXTM3U
-#EXTINF:60,KRT TV 3
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,KRT TV 3
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",group-title="1. Test",HALK TV Test 1
