@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Undefined",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="Undefined",KRT_TV
-https://www.youtube.com/watch?v=sKTq8zmzBvo
+https://www.youtube.com/watch?v=sKTq8zmzBvo.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1,TELE 1
