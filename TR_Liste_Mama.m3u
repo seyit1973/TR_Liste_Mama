@@ -54,22 +54,16 @@ https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV 
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
-#EXTINF:-1,KRT TV 2
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-
-#EXTINF:-1,KRT TV 3
-http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",group-title="1. Test",HALK TV Test 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",HalkTV_Test
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-1, HALK TV Test 2
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png",HABER GLOBAL
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/wrMn5rgQ/mktv.png",MK TV 
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png",HALK TV
