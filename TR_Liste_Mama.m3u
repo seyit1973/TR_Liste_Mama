@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Undefined",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 group-title="Undefined",KRT
-https://www.youtube.com/watch?v=sKTq8zmzBvo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1,TELE 1
@@ -29,12 +29,10 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",TRT HABER 
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
-https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
+#EXTINF:-1 group-title="Undefined",KRT
+https://www.youtube.com/watch?v=sKTq8zmzBvo
 #EXTINF:-1,CNN TÜRK
 https://anym3u8player.com/youtube.php/id/68f4acd0082ad.m3u8
-#EXTINF:-1,KRT Test
-https://api.m3use.projectmoose.xyz/m3u/seyit1973/Test/695105e836c16008ee5091f0.m3u8?uid=seyit1973&pkey=AN26SxD6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png",EKOL TV 
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",HalkTV_Test
