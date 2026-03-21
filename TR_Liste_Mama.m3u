@@ -26,7 +26,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Belgesel
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",TRT HABER 
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Undefined",KRT
